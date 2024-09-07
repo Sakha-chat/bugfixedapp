@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874141973184",
+    "project_id": "sakha-pushnotifications",
+    "storage_bucket": "sakha-pushnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874141973184:android:9099abf35a8a8ea59a0b25",
+        "android_client_info": {
+          "package_name": "com.morpankh.sakha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUwVQ6MtwtR6C3Uyt40Jn5s-JWbYikh78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
